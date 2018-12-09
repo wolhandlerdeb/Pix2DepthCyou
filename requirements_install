@@ -1,0 +1,7 @@
+# requirements install
+pip install Flask
+pip install pillow
+pip install h5py
+pip install opencv-contrib-python
+pip install keras
+pip install tensorflow
